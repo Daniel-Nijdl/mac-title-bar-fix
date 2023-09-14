@@ -1,7 +1,7 @@
 /* Mac Like Titlebar */
 :root {
-  --close-button-color: #e92a2ade;
   --minimize-button-color: #f7bc1bde;
+  --close-button-color: #e92a2ade;
   --maximize-button-color: #12db33de;
   --button-position: row;
 }
@@ -49,11 +49,11 @@
 }
 
 .withFrame-2dL45i .winButton-3UMjdg:nth-last-child(1) {
-  order: 2;
+  order: 1;
 }
 .withFrame-2dL45i .winButton-3UMjdg:nth-last-child(2) {
-  order: 3;
+  order: 2;
 }
 .withFrame-2dL45i .winButton-3UMjdg:nth-last-child(3) {
-  order: 1;
+  order: 3;
 }
